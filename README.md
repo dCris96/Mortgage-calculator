@@ -1,14 +1,14 @@
-# Frontend Mentor - Solución del reto Mortgage repayment calculator}
+# Frontend Mentor - Solución del reto Mortgage repayment calculator
 
-This is a solution to the [Mortgage repayment calculator challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/mortgage-repayment-calculator-Galx1LXK73). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Esta es una solución al [Desafío de calculadora de amortización de hipotecas en Frontend Mentor](https://www.frontendmentor.io/challenges/mortgage-repayment-calculator-Galx1LXK73).
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+- [Visión general](#Visión-general)
+  - [The challenge](#El-reto)
+  - [Captura de Pantalla](#Captura-de-Pantalla)
   - [Links](#links)
-- [My process](#my-process)
+- [Mi proceso](#mi-proceso)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -16,38 +16,30 @@ This is a solution to the [Mortgage repayment calculator challenge on Frontend M
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+## Visión general
 
-## Overview
-
-### The challenge
+### El reto
 
 Users should be able to:
 
-- Input mortgage information and see monthly repayment and total repayment amounts after submitting the form
-- See form validation messages if any field is incomplete
-- Complete the form only using their keyboard
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
+Los usuarios deben poder:
 
-### Screenshot
+- Introducir información sobre la hipoteca y ver los importes de la amortización mensual y total tras enviar el formulario.
+- Ver mensajes de validación del formulario si algún campo está incompleto
+- Rellenar el formulario sólo con el teclado
+- Ver el diseño óptimo de la interfaz en función del tamaño de la pantalla de su dispositivo.
+- Ver los estados «hover» y «focus» de todos los elementos interactivos de la página.
+
+### Captura de Pantalla
 
 ![](./preview.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL de la solución en Github: [Add solution URL here](https://github.com/dCris96/Mortgage-calculator)
+- URL de la demo: [Add live site URL here](https://dcris96.github.io/Mortgage-calculator/)
 
-## My process
+## Mi proceso
 
 ### Built with
 
